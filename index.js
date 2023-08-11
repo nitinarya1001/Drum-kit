@@ -1,5 +1,4 @@
 function playSound(e) {
-    console.log(e);
     if (e == "w") {
         var audio = new Audio("./sounds/crash.mp3");
     }
